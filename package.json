@@ -22,6 +22,9 @@
   "homepage": "https://github.com/sovni/mydefiproject#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^4.4.2",
-    "@truffle/hdwallet-provider": "^2.0.0"
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "fs": "0.0.1-security",
+    "web3": "^1.6.1"
   }
 }
